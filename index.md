@@ -1,8 +1,13 @@
 ## CoderDojo伊勢とは
 
-You can use the [editor on GitHub](https://github.com/coderdojo-ise/ise/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+三重県伊勢市で活動している「プログラミングクラブ」です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+プログラミング教室や講習会ではありません。
+
+活動にあたっては参加者の自主性を大事にしています。
+
+また、参加者同士が協力し合いながら上達を目指してもらっています。
+
 
 ### Markdown
 
